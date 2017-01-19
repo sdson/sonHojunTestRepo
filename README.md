@@ -1,6 +1,2 @@
-
-1 개발환경
- - java8
- - eclipse neon(필수)
- - node
- 
+# calculator
+기숙교육 - GitHub 실습을 위한 저장소입니다.
